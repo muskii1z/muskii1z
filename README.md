@@ -1,6 +1,6 @@
 # Hi, I'm Musab
 
-I'm an AI engineer in Dallas. I build RAG systems, AI agents, and mobile apps, and I ship them to real users. I studied exercise science, so health and fitness is where I do my best work.
+I'm an AI engineer in Dallas. I build RAG systems, AI agents, and mobile apps, and I ship them to real users. 
 
 ## What I'm building now
 
