@@ -8,6 +8,8 @@ I'm an AI engineer in Dallas. I build RAG systems, AI agents, and mobile apps, a
 
 A 55-question evaluation set drives every change. SQL filters cut answers that broke a client's equipment limits from 4 of 13 to zero while recall rose. Having code build the week's structure and the agent fill it took programs passing every check from 15 of 20 to 30 of 30. 173 tests, no API calls needed.
 
+**[rag-motion-mcp](https://github.com/muskii1z/rag-motion-mcp)** turns that work into an MCP server, so Claude Desktop or any MCP client can search exercises, build a checked program, save it to a real workout tracker, and suggest next week's changes from the client's logs. Writes are verified by reading them back, and notes from the tracker are treated as untrusted input. In evals, Claude Sonnet picked the right tool with usable inputs 64–65 times out of 66, and a prompt-injection guard took a cheaper model from following planted notes in 6 of 12 runs to 0 of 12.
+
 ## What I've shipped
 
 Client work through my company, Starline Labs, including a contract with Camel Case Labs:
